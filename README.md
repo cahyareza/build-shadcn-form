@@ -15,6 +15,7 @@ This project is a **Next.js application** featuring a secure contact form built 
 - Next.js
 - React
 - shadcn/ui
+- React Hook Form
 - Zod
 - Sonner
 - Arcjet
